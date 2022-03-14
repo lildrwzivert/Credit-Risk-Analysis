@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview of the loan prediction risk analysis:
-The purpose of this analysis is to build & evaluate different Machiene Learning models to predict credit risk. Using the design & implemented algorithms we can evaluate the performance of each model. 
+The purpose of this analysis is to build & evaluate different Machine Learning models to predict credit risk.
 
 ## Results:
 
@@ -40,7 +40,7 @@ The purpose of this analysis is to build & evaluate different Machiene Learning 
 
 ![Screen Shot 2022-02-20 at 11 43 14 PM](https://user-images.githubusercontent.com/91990957/154890585-7fd4c7c0-a641-49d7-9408-626c991bfe76.png)
 
-* Easy Emsemble AdaBoost Classifier model:
+* Easy Ensemble AdaBoost Classifier model:
 - balanced accuracy score = 93%
 - precision score = 99%
 - recall score = 95%
@@ -48,5 +48,4 @@ The purpose of this analysis is to build & evaluate different Machiene Learning 
 ![Screen Shot 2022-02-20 at 11 44 07 PM](https://user-images.githubusercontent.com/91990957/154890673-165815d0-4e0b-4330-9fca-10442795b1b5.png)
 
 ## Summary:
-Ensambled classifier models have the safest prediction rates. 
-Sampling model should go through trial of resampling & processing for chance at more sucessful prediction rates, but ensamble models would be most trustworth for initial credit risk prototype. 
+Ensembled classifier models have the safest prediction rates and would be most trustworthy for initial credit risk assessment.
