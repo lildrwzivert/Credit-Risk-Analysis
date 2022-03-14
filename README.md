@@ -40,7 +40,7 @@ The purpose of this analysis is to build & evaluate different Machine Learning m
 
 ![Screen Shot 2022-02-20 at 11 43 14 PM](https://user-images.githubusercontent.com/91990957/154890585-7fd4c7c0-a641-49d7-9408-626c991bfe76.png)
 
-* Easy Ensemble AdaBoost Classifier model:
+* Easy Ensemble Classifier model:
 - balanced accuracy score = 93%
 - precision score = 99%
 - recall score = 95%
